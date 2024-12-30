@@ -75,6 +75,10 @@
 
 <!--        #############    ↑管理性依賴  ##########################-->
 
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
 
 
 <!--        #############    ↑功能性依賴  ##########################-->
